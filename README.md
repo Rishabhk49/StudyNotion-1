@@ -34,60 +34,7 @@ ARCHITECTURE DIAGRAM
 ![image](https://github.com/user-attachments/assets/68bcf643-92fd-447e-a72b-084155aa7163)
 
 
-API ROUTE
-AUTHENTICATION
-ENDPOINT	API PATH
-SENDOTP	api/v1/auth/sendotp
-SIGNUP	api/v1/auth/signup
-LOGIN	api/v1/auth/login
-RESETPASSTOKEN	api/v1/auth/reset-password-token
-RESETPASSWORD	api/v1/auth/reset-password
-PROFILE
-ENDPOINT	API PATH
-GET_USER_DETAILS	api/v1/profile/getUserDetails
-GET_USER_ENROLLED_COURSES	api/v1/profile/getEnrolledCourses
-GET_INSTRUCTOR_DATA	api/v1/profile/instructorDashboard
-STUDENT
-ENDPOINT	API PATH
-COURSE_PAYMENT	api/v1/payment/capturePayment
-COURSE_VERIFY	api/v1/payment/verifyPayment
-SEND_PAYMENT_SUCCESS_EMAIL	api/v1/payment/sendPaymentSuccessEmail
-COURSE
-ENDPOINT	API PATH
-GET_ALL_COURSE	api/v1/course/getAllCourses
-COURSE_DETAILS	api/v1/course/getCourseDetails
-EDIT_COURSE	api/v1/course/editCourse
-COURSE_CATEGORIES	api/v1/course/showAllCategories
-CREATE_COURSE	api/v1/course/createCourse
-CREATE_SECTION	api/v1/course/addSection
-CREATE_SUBSECTION	api/v1/course/addSubSection
-UPDATE_SECTION	api/v1/course/updateSection
-UPDATE_SUBSECTION	api/v1/course/updateSubSection
-GET_ALL_INSTRUCTOR_COURSES	api/v1/course/getInstructorCourses
-DELETE_SECTION	api/v1/course/deleteSection
-DELETE_SUBSECTION	api/v1/course/deleteSubSection
-DELETE_COURSE	api/v1/course/deleteCourse
-GET_FULL_COURSE_DETAILS_AUTHENTICATED	api/v1/course/getFullCourseDetails
-LECTURE_COMPLETION	api/v1/course/updateCourseProgress
-CREATE_RATING	api/v1/course/createRating
-RATINGS & REVIEWS
-ENDPOINT	API PATH
-REVIEWS_DETAILS	api/v1/course/getReviews
-CATEGORIES
-ENDPOINT	API PATH
-CATEGORIES	api/v1/course/showAllCategories
-CATALOG
-ENDPOINT	API PATH
-CATALOG_PAGE_DATA	api/v1/course/getCategoryPageDetails
-CONTACT US
-ENDPOINT	API PATH
-CONTACT_US	api/v1/reach/contact
-SETTING
-ENDPOINT	API PATH
-UPDATE_DISPLAY_PICTURE	api/v1/profile/updateDisplayPicture
-UPDATE_PROFILE	api/v1/profile/updateProfile
-CHANGE_PASSWORD	api/v1/auth/changepassword
-DELETE_PROFILE	api/v1/profile/deleteProfile
+
 SCHEMA DESIGN
 ![image](https://github.com/user-attachments/assets/baa14881-eac8-4ca8-9384-5ed42b9dd876)
 
