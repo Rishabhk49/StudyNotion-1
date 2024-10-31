@@ -11,6 +11,7 @@ TECHNOLOGY STACK
 StudyNotion is built using the following technologies:
 
 FRONTEND
+
 FIGMA : Figma is a collaborative interface design tool that enables multiple users to work on designing clean and minimal user interfaces simultaneously. Its cloud-based approach makes it accessible for design teams to create, prototype, and collaborate on user interface designs.
 
 REACT.JS : React.js is a widely used JavaScript library for building user interfaces. It allows for the creation of interactive and reusable UI components, enabling efficient rendering and managing of application state, leading to a seamless user experience.
@@ -53,6 +54,7 @@ MARKDOWN FORMATTING: Course content is stored in Markdown format, allowing easie
 
 
 FRONTEND
+
 The front end of StudyNotion is designed using Figma, a popular design tool that allows for the creation of clean and minimal user interfaces. It comprises various pages for Students, Instructors, and potential Admin functionalities:
 
 STUDENT
