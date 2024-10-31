@@ -1,4 +1,6 @@
 STUDYNOTION
+
+
 StudyNotion is a comprehensive educational platform aimed at providing a seamless experience for students and educators alike. It offers a range of features that facilitate learning, collaboration, and resource sharing.
 
 ![image](https://github.com/user-attachments/assets/aa374b3c-1bd9-4fa9-9750-41aebf560e41)
