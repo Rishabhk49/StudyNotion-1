@@ -33,9 +33,8 @@ CLOUDINARY : Cloudinary is a cloud-based media management solution that speciali
 ARCHITECTURE DIAGRAM
 ![image](https://github.com/user-attachments/assets/68bcf643-92fd-447e-a72b-084155aa7163)
 
-
-
 SCHEMA DESIGN
+
 ![image](https://github.com/user-attachments/assets/baa14881-eac8-4ca8-9384-5ed42b9dd876)
 
 
