@@ -42,28 +42,52 @@ FUNCTIONALITIES
 The back end of StudyNotion provides a range of features and functionalities, including:
 
 USER AUTHENTICATION & AUTHORIZATION: Students and instructors can sign up and log in using email addresses and passwords. The platform supports OTP (One-Time Password) verification and forgot password functionality for enhanced security.
+
 COURSE MANAGEMENT: Instructors can create, read, update, and delete courses, manage course content, and media. Students can view and rate courses.
+
 PAYMENT INTEGRATION: Students can purchase and enroll in courses by completing the checkout flow that includes Razorpay integration for payment handling.
+
 CLOUD-BASED MEDIA MANAGEMENT: StudyNotion utilizes Cloudinary, a cloud-based media management service, to store and manage all media content, including images, videos, and documents.
+
 MARKDOWN FORMATTING: Course content is stored in Markdown format, allowing easier display and rendering on the front end.
+
+
 FRONTEND
 The front end of StudyNotion is designed using Figma, a popular design tool that allows for the creation of clean and minimal user interfaces. It comprises various pages for Students, Instructors, and potential Admin functionalities:
 
 STUDENT
+
 HOMEPAGE: Brief introduction to the platform with links to the course list and user details.
+
 COURSE LIST: Displays all available courses with descriptions and ratings.
+
 WISHLIST: Shows courses added to the student's wishlist.
+
 CART CHECKOUT: Allows users to complete the course purchase.
+
 COOURSE CONTENT: Displays course material, including videos and related content.
+
 USER DETAILS: Contains information about the student's account.
+
 USER EDIT DETAILS: Enables students to edit their account details.
+
+
 INSTRUCTOR
+
 DASHBOARD: Overview of the instructor's courses, including ratings and feedback.
+
 INSIGHTS: Detailed metrics of the instructor's courses.
+
 COURSE MANAGEMENT PAGES: Creation, update, and deletion of courses, as well as managing content and pricing.
+
 VIEW & EDIT PROFILE DETAILS: View and edit account details.
+
 ADMIN (Future Scope)
+
 DASHBOARD: Overview of the platform's courses, instructors, and students.
+
 INSIGHTS: Detailed metrics of the platform, including user count, courses, and revenue.
+
 INSTRUCTOR MANAGEMENT: Admin access to manage instructors, their account details, courses, and ratings.
+
 MISCELLANEOUS Access to user and course management pages.
